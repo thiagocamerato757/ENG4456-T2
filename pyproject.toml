@@ -1,0 +1,11 @@
+[project]
+name = "eng4456-t2-ga"
+version = "0.1.0"
+description = "Genetic algorithm experiment for ENG4456 T2"
+authors = [ { name = "Karla" }, { name = "Thiago" } ]
+requires-python = ">=3.10"
+dependencies = [
+  "numpy",
+  "matplotlib",
+  "geneticalgorithm2"
+]
